@@ -17,7 +17,7 @@ const Coin = () => {
       method: 'GET',
       headers: {
         accept: 'application/json',
-        'x-cg-demo-api-key': process.env.REACT_APP_CG_API_KEY,
+        'x-cg-demo-api-key': 'CG-U69aUjwwHSb6gSbyzQ3hj3AE',
       },
     };
   
@@ -36,7 +36,7 @@ const Coin = () => {
       method: 'GET',
       headers: {
         accept: 'application/json',
-        'x-cg-demo-api-key': process.env.REACT_APP_CG_API_KEY,
+        'x-cg-demo-api-key': 'CG-U69aUjwwHSb6gSbyzQ3hj3AE',
       },
     };
   

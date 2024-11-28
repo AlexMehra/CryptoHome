@@ -69,9 +69,9 @@ const Home = () => {
               </p>
               <p className='market-cap'>{currency.symbol} {item.market_cap.toLocaleString()}</p>
 
-              <p>
+              {/* <p>
                 {}
-              </p>
+              </p> */}
             </Link>
           ))
         }
